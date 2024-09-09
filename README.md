@@ -3,6 +3,10 @@
 ## About
 The Lakeline Design Automation System is a comprehensive toolset developed to automate product management and image processing for **Lakeline Design**, a creative business founded by Emma Hoffmann that specializes in lake-inspired artwork. This project, collaboratively created by Emma Hoffmann and Blake Norman, streamlines the process of preparing and managing products across Etsy and Shopify.
 
+**Shopify**: https://lakelinedesign.com/
+
+**Etsy**: https://www.etsy.com/shop/LakelineDesign/
+
 ## Features
 - **Automated Folder Creation**: Automatically organizes lake print designs into structured folders.
 - **Image Mockup Generation**: Generates mockup images for Etsy and Shopify products, customized for different platforms and product variations.
