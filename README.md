@@ -20,7 +20,14 @@ The Lakeline Design Automation System is a comprehensive toolset developed to au
 - `Shopify_Product_Generator.py`: Automates the creation of new products on Shopify, including duplicating a base product, customizing product details, and uploading images with alt texts for connecting images to product variants.
 - `Script_Manager.py`: Manages the execution of individual or all scripts for standard usage, ensuring a smooth and error-checked workflow.
 - `etsy_config_portrait.json`, `etsy_config_landscape.json`, `shopify_config_portrait.json`, `shopify_config_landscape.json`: Configuration files for prints, including the base and output paths as well as coordinates for the placement of prints over the base images.
-- `completed_lakes.txt`: List of completed lakes for new lake product checking.
+- `completed_lakes.txt`: List of completed lakes for new lake product checking.<br><br>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/emmarhoffmann/Lakeline-Design-Automation-System/main/Images/Flowchart.png" alt="Flowchart" width="700"/>
+</div>
+<br>
+
 
 ## Benefits
 This system significantly reduces manual work by automating the process, ensuring consistent and high-quality output for Lakeline Design products across Etsy and Shopify platforms.
